@@ -55,3 +55,11 @@ h2 {
 .float-left {
 	float: left;
 }
+
+.aboutme {
+	background-size:cover;
+	color:White;
+	height:600px;
+	background-image: linear-gradient(rgba(222, 10, 10, 0.6), rgba(140, 20, 224, 0.6)), url("natashablue.jpg");
+	background-position: 25% 15%;
+}
