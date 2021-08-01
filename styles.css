@@ -20,7 +20,6 @@ p {
 
 h1 {
 	font-size:5rem;
-	margin:0;
 }
 
 h2 {
@@ -143,4 +142,14 @@ nav {
 }
 .gallery {
 	column-count: 3;
+}
+.index-images {
+        display: flex;
+}
+.index-images a {
+	width:12%;
+	margin:0 auto;
+}
+p, h1, h2 {
+	margin:2% 18%;
 }
