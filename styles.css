@@ -167,3 +167,11 @@ p, h1, h2 {
 	text-decoration: none;
 	pointer-events: none;
 }
+.quote {
+	text-align: center;
+	padding-bottom: 1.5%;
+	padding-top: 1.5%;
+}
+.center-form {
+	margin-left: 6%;
+}
