@@ -148,8 +148,12 @@ nav {
         display: flex;
 }
 .index-images a {
-	width:12%;
+	width:12vw;
 	margin:0 auto;
+	text-decoration: none;
+}
+.index-images a p {
+	text-align: center;
 }
 p, h1, h2 {
 	margin:2% 6%;
@@ -174,4 +178,40 @@ p, h1, h2 {
 }
 .center-form {
 	margin-left: 6%;
+}
+.about-me-image {
+	background-image:url("images/natasha4.jpg");
+	background-size:cover;
+	height: 14vw;
+	background-position: 25% 58%;
+}
+.recommended-items-image{
+	background-image:url("images/taima.jpg");
+	background-size:cover;
+	height: 14vw;
+	background-position: 25% 58%;
+}
+.services-image{
+	background-image:url("images/brushes.webp");
+	background-size:cover;
+	height: 14vw;
+	background-position: 40% 58%;
+}
+.gallery-image{
+	background-image:url("images/gallery-image.webp");
+	background-size:cover;
+	height: 14vw;
+	background-position: 25% 58%;	
+}
+.blog-image{
+	background-image:url("images/typewriter.webp");
+	background-size:cover;
+	height: 14vw;
+	background-position: 25% 58%;
+}
+.sport-image{
+	background-image:url("images/table_tennis.webp");
+	background-size:cover;
+	height: 14vw;
+	background-position: 25% 58%;
 }
